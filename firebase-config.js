@@ -6,12 +6,12 @@
  */
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.firebasestorage.app",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyA9oFKj089Pki9327M-3OZKd8CpgAVI5xA",
+  authDomain: "exam-manage-8eebc.firebaseapp.com",
+  projectId: "exam-manage-8eebc",
+  storageBucket: "exam-manage-8eebc.firebasestorage.app",
+  messagingSenderId: "438433376508",
+  appId: "1:438433376508:web:7ad5b823280b1ea128cf79"
 };
 
 // Firebase 初期化
